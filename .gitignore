@@ -1,0 +1,13 @@
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules/
+
+# Environment variables
+.env
+# Jest cache and test output
+jest/
